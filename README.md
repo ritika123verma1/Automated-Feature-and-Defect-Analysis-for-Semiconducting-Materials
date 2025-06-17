@@ -1,7 +1,4 @@
 # Automated-Feature-and-Defect-Analysis-for-Semiconducting-Materials
-Work in progress.....
-
-
 
 **Overview**
 This project focuses on automating the analysis of defects in semiconductor materials, specifically Line Edge Roughness (LER) and Line Width Roughness (LWR). By leveraging SPA (Signal Processing Algorithms) and SEM (Scanning Electron Microscopy) techniques, we aim to enhance defect detection accuracy and efficiency.
