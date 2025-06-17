@@ -26,6 +26,7 @@ The goal of this project is to automate the analysis and detection of semiconduc
 - A working prototype that shows accurate LER/LWR detection
 
 **My Contribution**
+
 My main contribution was to the frontend development, which produced an intuitive and responsive interface for showcasing defect data and SEM photos.  Additionally, I collaborated with the research and data teams to guarantee the smooth integration of analytical tools and visual outputs.
 
 **Key Features**
